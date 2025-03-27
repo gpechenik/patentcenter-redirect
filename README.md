@@ -1,0 +1,1 @@
+# patentcenter-redirect
